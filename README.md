@@ -1,5 +1,6 @@
 [![Gitter](https://badges.gitter.im/smu405/s.svg)](https://gitter.im/smu405/s?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+os.path.join(os.path.expanduser("~"),"C:\Users\G312\spark-2.0.0-bin-hadoop2.7")
 # 빅데이터 프로그래밍
 
 * 최종수정일 20190903화
